@@ -1,0 +1,70 @@
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Login.resources
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Properties.Resources.resources
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.csproj.GenerateResource.Cache
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Date_get.resources
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Menu.resources
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Summary.resources
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe.config
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.pdb
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.exe
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.pdb
+c:\users\veganczech\documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.DataGridView.resources
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.csprojResolveAssemblyReference.cache
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe.config
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.exe
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.pdb
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.pdb
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.csprojResolveAssemblyReference.cache
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Date_get.resources
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.DataGridView.resources
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Login.resources
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Properties.Resources.resources
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.csproj.GenerateResource.Cache
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.CompleteEntry.resources
+C:\Users\VeganCzech\Documents\visual studio 2010\Projects\ProjektDatabase\ProjektDatabase-TA\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.ChooseOperations.resources
+C:\Users\VeganCzech\Downloads\ProjektDatabase\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe.config
+C:\Users\VeganCzech\Downloads\ProjektDatabase\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.exe
+C:\Users\VeganCzech\Downloads\ProjektDatabase\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.pdb
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe.config
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.exe
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.pdb
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.csprojResolveAssemblyReference.cache
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Date_get.resources
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.DataGridView.resources
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Login.resources
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.ChooseOperations.resources
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Properties.Resources.resources
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.CompleteEntry.resources
+C:\Users\VeganCzech\Desktop\Database projekt\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.csproj.GenerateResource.Cache
+G:\xfgxfgxf\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe.config
+G:\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.pdb
+G:\xfgxfgxf\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe
+G:\xfgxfgxf\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.pdb
+G:\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.csprojResolveAssemblyReference.cache
+G:\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Date_get.resources
+G:\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.DataGridView.resources
+G:\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Login.resources
+G:\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.ChooseOperations.resources
+G:\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Properties.Resources.resources
+G:\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.CompleteEntry.resources
+G:\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.csproj.GenerateResource.Cache
+G:\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.exe
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe.config
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.exe
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.pdb
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.pdb
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.csprojResolveAssemblyReference.cache
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Date_get.resources
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.DataGridView.resources
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Login.resources
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.ChooseOperations.resources
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.Properties.Resources.resources
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase_TA.CompleteEntry.resources
+C:\Users\Veganekk\Documents\xfgxfgxf\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.csproj.GenerateResource.Cache
+C:\Users\VeganCzech\Desktop\Projekt + Dokumentace_Kocourek\ProjektDatabase-TA\bin\Debug\ProjektDatabase-TA.exe.config
+C:\Users\VeganCzech\Desktop\Projekt + Dokumentace_Kocourek\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.exe
+C:\Users\VeganCzech\Desktop\Projekt + Dokumentace_Kocourek\ProjektDatabase-TA\obj\x86\Debug\ProjektDatabase-TA.pdb
